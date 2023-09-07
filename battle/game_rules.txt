@@ -1,0 +1,30 @@
+***************************
+BATAILLE: LES RÈGLES DU JEU
+***************************
+
+La bataille est un jeu de cartes qui se joue à 2, avec un paquet de 54 cartes (c'est-à-dire un jeu de cartes traditionnel et 2 jokers).
+
+BUT DU JEU:
+Remporter toutes les cartes!
+
+VALEUR DES CARTES:
+Par ordre croissant: 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - Valet - Dame - Roi - As - Joker.
+NB: les couleurs (rouge et noir) et les familles des cartes (coeur, carreau, pique et trèfle) n'ont aucune incidence sur le déroulement de la partie.
+
+DÉBUT DU JEU:
+Les cartes sont mélangées et distribuées entre les joueurs et joueuses, qui constituent chacun·e une pile de cartes faces cachées.
+
+DÉROULEMENT DU JEU:
+À chaque tour de jeu, chacun·e dévoile en même temps la carte du haut de sa pile. La personne qui a posé la carte la plus forte remporte les cartes posées, et les met faces cachées en bas de sa pile.
+En cas d'égalité, il y a "bataille": chaque personne pose une deuxième carte, cette fois face cachée, puis une troisième carte, face découverte.
+La personne qui a posé la carte la plus forte lors de la dernière pose remporte l'ensemble des cartes posées (faces cachées et faces découvertes).
+NB: il arrive parfois qu'il y ait plusieurs batailles à la suite.
+
+FIN DE JEU:
+Le jeu se termine quand un joueur ou une joueuse a remporté toutes les cartes.
+NB: Si une personne n'a plus de cartes pendant une bataille, son adversaire lui donne le nombre nécessaire de cartes pour finir la bataille.
+Il arrive que certain·es joueurs et joueuses soient ainsi totalement relancé·es quand leur partie semblait désespérée!
+
+PRÉCISION SUR LE COMPTAGE DES COUPS DANS CE PROGRAMME:
+Le nombre de coups d'une partie correspond au nombre de fois où une joueuse ou un joueur ramasse les cartes.
+Il est donc possible qu'une partie se termine après un nombre de coups inférieur au nombre de cartes, car lors des batailles chaque joueur·joueuse pose plusieurs cartes.
