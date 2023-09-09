@@ -24,7 +24,7 @@ def display_menu() -> str:
 
 def display_rules():
     """Ouvre le fichier game_rules.txt et affiche les règles du jeu de bataille"""
-    with open("battle/game_rules.txt", "r") as f:
+    with open("battle/game_rules.txt", "r", encoding='utf-8') as f:
         print(f.read())
 
 
