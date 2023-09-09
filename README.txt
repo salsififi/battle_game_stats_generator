@@ -27,8 +27,18 @@ Pour chaque partie, seules les statistiques finales (vainqueur, nombre de coups,
 4. Quitter le programme
 
 
+## Licence
+Ce programme est mis à disposition selon les termes de la licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0), sauf disposition contraire explicite. Vous êtes libre de :
+- Partager — copier et redistribuer le programme sous n'importe quel format.
+- Adapter — modifier, transformer et créer à partir du programme.
+Dans tous les cas, vous devez attribuer l'œuvre de la manière spécifiée par l'auteur ou le titulaire des droits (et conformément à la licence), mais vous ne pouvez pas utiliser cette œuvre à des fins commerciales.
+Si vous modifiez, transformez ou créez à partir de ce programme, vous devez distribuer vos contributions sous une licence identique ou similaire à celle-ci, en spécifiant que les modifications ont été apportées.
+Toute utilisation commerciale de ce programme est strictement interdite sans l'autorisation écrite préalable de l'auteur.
+
+
 ## Auteur: Simon Salvaing
 Je serai très friand de toutes vos remarques et suggestions constructives: https://github.com/salsififi/battle_game_stats_generator/issues
+
 
 ## Remerciements: OpenClassrooms et FranceIOI, sites avec lesquels j'ai appris l'algorithmique et la programmation en Python.
 
