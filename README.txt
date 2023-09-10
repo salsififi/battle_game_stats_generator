@@ -2,14 +2,15 @@
 Un programme pour comprendre enfin, statistiques à l'appui, pourquoi le jeu de bataille est tellement ennuyeux!
 
 
-## Installation:
+## Version de Python et packages requis:
 - Version de Python nécessaire: 3.10 ou ultérieure.
 (Le script utilise les mots-clés 'match' et 'case', apparus avec la version 3.10 de Python).
-- Package requis: matplotlib .
+- Package requis: matplotlib.
 
 
 ## Utilisation:
-Lancez le fichier main.py. Vous arriverez alors sur le menu d'accueil, où vous aurez 4 choix:
+Lancez le fichier main.py.
+Vous arriverez alors sur le menu d'accueil, où vous aurez 4 choix:
 
 1. Lire les règles du jeu de bataille
 --> il existe de nombreuses versions du jeu de batailles:
@@ -40,7 +41,7 @@ Toute utilisation commerciale de ce programme est strictement interdite sans l'a
 Je serai très friand de toutes vos remarques et suggestions constructives: https://github.com/salsififi/battle_game_stats_generator/issues
 
 
-## Remerciements: OpenClassrooms et FranceIOI, sites avec lesquels j'ai appris l'algorithmique et la programmation en Python.
+## Remerciements: OpenClassrooms et FranceIOI (avec lesquels j'apprends l'algorithmique et la programmation en Python).
 
 
 
