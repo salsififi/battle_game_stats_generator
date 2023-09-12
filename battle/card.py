@@ -20,11 +20,8 @@ class JokerCard(Card):
     def __init__(self):
         super().__init__(self.all_values[-1])
 
-    def __str__(self):
-        return "Joker"
-
     def __repr__(self):
-        return str(self)
+        return "Joker"
 
 
 class ColoredCard(Card):
